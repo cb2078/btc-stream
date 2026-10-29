@@ -1,0 +1,6 @@
+*.bat
+*.pdf
+.cache/
+.zed/
+build
+CMakeUserPresets.json

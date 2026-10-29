@@ -1,0 +1,10 @@
+[requires]
+openssl/3.3.1
+simdjson/3.13.0
+
+[generators]
+CMakeDeps
+CMakeToolchain
+
+[layout]
+cmake_layout

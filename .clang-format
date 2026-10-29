@@ -1,0 +1,8 @@
+BasedOnStyle: WebKit
+AccessModifierOffset: -4
+AllowShortFunctionsOnASingleLine: None
+AllowShortLambdasOnASingleLine: None
+BreakConstructorInitializers: AfterColon
+BreakTemplateDeclarations: "Yes"
+IndentCaseLabels: true
+PointerAlignment: Right
